@@ -1,0 +1,12 @@
+
+
+java:S1319&"iThe type of "dishTypes" should be an interface such as "List" rather than the implementation "ArrayList".(°¥îÉ
+ˆ
+java:S1319;"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(êÌ“Øúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¤¶£õüÿÿÿÿ
+3
+java:S2119'"Save and re-use this "Random".(¼İÅf
+@	java:S106)"+Replace this use of System.out by a logger.(ÆŒü
+@	java:S106,"+Replace this use of System.out by a logger.(ùÔÖß
+@	java:S1063"+Replace this use of System.out by a logger.(€Ÿñ
+E	java:S1067"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
